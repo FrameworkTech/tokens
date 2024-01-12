@@ -1,11 +1,11 @@
 {
- "name": "DNT",
- "website": "https://www.sindia-c.store/",
- "description": "DNT is a game token owned by SpaceGuild. It is used for advanced functions of the game, such as strengthening equipment, evolving pets, etc., and is also used as a reward for game competitions. The total circulation is 21 million, of which 10 million are actually in circulation. 3 million are pledged in the game, 1 million are airdropped, and 7 million are liquid mining and staking mining.",
- "explorer": "https://bscscan.com/token/0x44836708ff32246635d8d08c785f4e779e294598",
+ "name": "Framework Technology Quantum",
+ "website": "https://frameworktech.io/",
+ "description": "Unlocking the Future of Cross-Chain Innovation: $FTQ Propelling the Evolution to L3",
+ "explorer": "https://bscscan.com/token/0x800bbe68bb0514B3DA9773F9764099A269511c24",
  "type": "BEP20",
- "symbol": "DNT",
- "decimals": 8,
+ "symbol": "FTQ",
+ "decimals": 18,
  "status": "active",
- "id": "0x44836708ff32246635d8d08c785f4e779e294598"
+ "id": "0x800bbe68bb0514B3DA9773F9764099A269511c24"
 }
